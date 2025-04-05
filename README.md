@@ -49,3 +49,6 @@ s
        <version>5.10.0</version>
        <scope>test</scope>
    </dependency>
+5. Run tests
+   ```
+   mvn test
